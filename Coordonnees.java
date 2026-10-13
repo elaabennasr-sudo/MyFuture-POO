@@ -1,4 +1,4 @@
-1import java.util.Scanner;
+import java.util.Scanner;
 
 public class Coordonnees {
     public static void main(String[] args) {
